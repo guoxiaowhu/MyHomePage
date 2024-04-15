@@ -1,4 +1,4 @@
-![image](https://github.com/guoxiaowhu/Xiao_Guo/assets/17445235/0a4c76bf-c9a5-4833-af33-e1dccbe96203)# Welcome to Xiao Guo's Homepage!
+# Welcome to Xiao Guo's Homepage!
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/艺术照.jpg)
 
 郭潇，字培渊，湖北黄冈武穴人，科研工作者，国科大杭州高等研究院博士后，获选2023年博士后创新人才支持计划，主要从事引力波天体物理研究，曾为KAGRA 合作组成员，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作，杭州市天文学会科普讲师（具体见后）。
