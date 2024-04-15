@@ -1,7 +1,7 @@
-# Welcome to Xiao Guo's Homepage!
+![image](https://github.com/guoxiaowhu/Xiao_Guo/assets/17445235/0a4c76bf-c9a5-4833-af33-e1dccbe96203)# Welcome to Xiao Guo's Homepage!
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/艺术照.jpg)
 
-郭潇，字培渊，湖北黄冈武穴人，科研工作者，国科大杭州高等研究院博士后，获选2023年博士后创新人才支持计划，主要从事引力波天体物理研究，曾为KAGRA 合作组成员，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作（见后）。
+郭潇，字培渊，湖北黄冈武穴人，科研工作者，国科大杭州高等研究院博士后，获选2023年博士后创新人才支持计划，主要从事引力波天体物理研究，曾为KAGRA 合作组成员，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作，杭州市天文学会科普讲师（具体见后）。
 
 
 I am **Xiao GUO (郭潇)**. I obtained PhD degree at National Astronomical Observatories, Chinese Academy of Sciences (NAOC) and University of Chinese Academy of Sciences (UCAS) in 2023. I engage in gravitational wave astrophysics research, and I am a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). I have ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and have taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
@@ -15,7 +15,7 @@ Here is some personal information about me:
 - WeChat Public Account: 疏雪雾里![QR code](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/MathPhysics.png?raw=true)
 - Bilibili account: [疏雪雾里](https://space.bilibili.com/504479552/)
 - Sina Weibo account: 疏雪雾里
-- Office: 国科大杭高院3号楼2B-240
+- Office: 国科大杭高院3号楼2B-216
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
@@ -50,7 +50,7 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - **Guo Xiao**, & Lu Youjun, (2022). Probing the nature of dark matter via gravitational waves lensed by small dark matter halos. [Physical Review D, 106, 023018.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.023018) [arXiv:2207.00325](https://arxiv.org/pdf/2207.00325.pdf). 
 - **Guo Xiao**, Lu Youjun, Yu Qingjuan, (2022). On Detecting Nearby Nanohertz Gravitational Wave Sources via Pulsar Timing Arrays. [ApJ, 939, 55](https://doi.org/10.3847/1538-4357/ac9131). [arXiv: 2209.05666](https://arxiv.org/pdf/2209.05666.pdf).
 - Ma Hao, Lu Youjun, **Guo Xiao**, Zhang Siqi & Chu Qingbo, (2023). On the detection of the electromagnetic counterparts from lensed gravitational wave events by binary neutron star mergers. [MNRAS, 518,6183](https://doi.org/10.1093/mnras/stac3418).
-
+- **Guo Xiao** & Cao Zhoujian, (2024). Testing an exact diffraction formula with gravitational wave source lensed by a supermassive black hole in binary systems. [JCAP](). [arXiv: 2401.01581](https://arxiv.org/pdf/2401.01581.pdf).  
 Other subject:
 - YU, X., **GUO, X.**, JI, Y., TANG, S., JIA, C. & LEI, F. (2022). Migrational movements and seasonal home ranges of Greater Crested Terns Thalasseus bergii breeding in the South China Sea. [Marine Ornithology 50: 245 - 251](http://www.marineornithology.org/article?rn=1495)
 
