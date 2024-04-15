@@ -147,6 +147,8 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - [时空的波动：引力波](https://mp.weixin.qq.com/s/p_IG2_3WDPsJ1_bgwrSW-Q)@石景山区文化中心(2022.9.3)
 - [恒星的“全家福”](https://activity.lingxi360.com/activity/caen47pzywmr8g61lp18701vkxlq2o95?ouid=calkpryz7m38qd9vnpmg109vxe2n15wo&utm_bccid=ca4lkpryz7m38qd91lewy09vxe2n15wo)@北京儿童舒缓治疗活动中心(2023.7.8)，详见[微信公众号推文](https://mp.weixin.qq.com/s/fJdGio7qMJrEFw14bESirw)
 - 儒力教育科学星期天系列线上报告海报见[链接](https://github.com/guoxiaowhu/Xiao_Guo/tree/guoxiaowhu-patch-1/SciPop)
+- [天方日谭]()@武穴市图书馆
+- [引力波--时空的交响乐](https://mp.weixin.qq.com/s/F_HciwxtuGp9EYbAJYoxJg)@杭州市天文学会
 - ......
 
 
