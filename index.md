@@ -90,13 +90,18 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 - 2023.3.31-4.2, 面向空间引力波探测的致密天体波源物理和天文学研究2022年度学术研讨会@中山大学, Zhuhai(珠海), China. Talk: Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos
 - 2023.10.13-16, International Mini-Workshop: Gravitational Waves in the Early Universe @ ITP, CAS, Beijing(北京), China
 - 2023.10.20-24. Gravitation and Cosmology Workshop (引力与宇宙学研讨会) @ HIAS, UCAS, Hangzhou (杭州), China. Talk: Probing the Nature of Dark Matter via Lensed Gravitational Waves
-- 2023.11.7-8. Zhejiang Astronomy Computing Series (计算天文国际会议) @ Zhejiang Lab, Beijing (北京), China. Talk: Detecting Nearby Gravitational Wave Sources With Pulsar Timing Array
+- 2023.11.7-8. Zhejiang Astronomy Computing Series (计算天文国际会议) @ Zhejiang Lab (之江实验室), Beijing (北京), China. Talk: Detecting Nearby Gravitational Wave Sources With Pulsar Timing Array
 - .....
 
 Invited talks:
 - 2022.9.5, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/PI8pkgHeKS7jgbNnvkKzCQ), SWIFAR(online)
 - 2023.3.14, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/spJQmwziAvexqUUQ2AYQNw)@KIAA, PKU
 - 2023.6.5, [用引力波的引力透镜效应探测暗物质的本质(Probing the nature of dark matter via lensed gravitational wave)](https://github.com/guoxiaowhu/Xiao_Guo/blob/guoxiaowhu-patch-1/SciRep/SZTU.jpg)@Shenzhen Technology University (SZTU)
+- 中科大
+- 重庆大学
+- 北师大珠海
+- 中山大学珠海校区
+ 
 
 ## Skills & Courses
 I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
