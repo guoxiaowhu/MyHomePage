@@ -77,20 +77,22 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 
 
 ## Conferences & Schools
-- 2016.8, the 3rd BNU International Summer School on Quantum Gravity @ Beijing(北京), China
-- 2017, Spring School for Numerical Relativity @ ITP, CAS, Beijing(北京), China (理论物理所数值相对论春季学校)
-- 2017.7, the SYSU Gravitational Wave Summer School @ Zhuhai(珠海), China
-- 2019.6, the 6th KAGRA International Workshop @ Wuhan(武汉), China
-- 2019.8, the Third Conference for Gravitational Wave Astrophysics @ Kunming(昆明), China
-- 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics @ PKU, Beijing(北京), China
+- 2016.8, the 3rd BNU International Summer School on Quantum Gravity @ Beijing(北京)
+- 2017, Spring School for Numerical Relativity (理论物理所数值相对论春季学校) @ ITP, CAS, Beijing(北京) 
+- 2017.7, the SYSU Gravitational Wave Summer School @ Zhuhai(珠海)
+- 2019.6, the 6th KAGRA International Workshop @ Wuhan(武汉)
+- 2019.8, the Third Conference for Gravitational Wave Astrophysics @ Kunming(昆明)
+- 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics @ PKU, Beijing(北京)
 - 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China. Talk: Numerical calculation of diffraction integral for gravitational lensing of gravitational wave
-- 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥), China
+- 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥)
 - 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC) @ online. Invited talk: On the Gravitational Lensing of Gravitational Wave
 - 2023.3.31-4.2, 面向空间引力波探测的致密天体波源物理和天文学研究2022年度学术研讨会@中山大学, Zhuhai(珠海), China. Talk: Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos
-- 2023.10.13-16, International Mini-Workshop: Gravitational Waves in the Early Universe @ ITP, CAS, Beijing(北京), China
-- 2023.10.20-24. Gravitation and Cosmology Workshop (引力与宇宙学研讨会) @ HIAS, UCAS, Hangzhou (杭州), China. Talk: Probing the Nature of Dark Matter via Lensed Gravitational Waves
-- 2023.11.7-8. Zhejiang Astronomy Computing Series (计算天文国际会议) @ Zhejiang Lab (之江实验室), Beijing (北京), China. Talk: Detecting Nearby Gravitational Wave Sources With Pulsar Timing Array
+- 2023.10.13-16, International Mini-Workshop: Gravitational Waves in the Early Universe @ ITP, CAS, Beijing(北京)
+- 2023.10.20-24. Gravitation and Cosmology Workshop (引力与宇宙学研讨会) @ HIAS, UCAS, Hangzhou (杭州). Talk: Probing the Nature of Dark Matter via Lensed Gravitational Waves
+- 2023.11.7-8. Zhejiang Astronomy Computing Series (计算天文国际会议) @ Zhejiang Lab (之江实验室), Beijing (北京). Talk: Detecting Nearby Gravitational Wave Sources With Pulsar Timing Array
+- 2024.2.23-25. 中国空间站望远镜与宇宙学研讨会@Shenzhen Technology University (SZTU), Shenzhen (深圳). Talk: On the detection of the electromagnetic counterparts from lensed gravitational wave events by binary neutron star mergers
+- 衡阳引力年会
 - .....
 
 Invited talks:
@@ -101,7 +103,7 @@ Invited talks:
 - 重庆大学
 - 北师大珠海
 - 中山大学珠海校区
-- 衡阳引力年会
+
  
 
 ## Skills & Courses
