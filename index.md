@@ -153,6 +153,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 
 
 科普著作：
+- 合著有《星征程：聆听宇宙的解答》，署名：中国科学院国家天文台
 - 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作
 - 在南斗天文团队中参与编著绘本[《和宇宙对话的中国》](https://www.zhihu.com/pin/1676191814951030784)（电子工业出版社），可扫描图片上的小程序码购买![小程序码](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/Books/%E5%92%8C%E5%AE%87%E5%AE%99%E5%AF%B9%E8%AF%9D%E7%9A%84%E4%B8%AD%E5%9B%BD.jpeg?raw=true)
 
