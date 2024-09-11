@@ -53,7 +53,9 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - Ma Hao, Lu Youjun, **Guo Xiao**, Zhang Siqi & Chu Qingbo, (2023). On the detection of the electromagnetic counterparts from lensed gravitational wave events by binary neutron star mergers. [MNRAS, 518,6183](https://doi.org/10.1093/mnras/stac3418).
 - **Guo Xiao** & Cao Zhoujian, (2024). Testing an exact diffraction formula with gravitational wave source lensed by a supermassive black hole in binary systems. [JCAP](). [arXiv: 2401.01581](https://arxiv.org/pdf/2401.01581.pdf).
 - Yang Qing, **Guo Xiao**, Cao Zhoujian, Shao Xiaoyun, Yuan Xi, (2024). Anisotropy of Nanohertz Gravitational Wave Background and Individual Sources from Supermassive Binary Black Holes: Probe of Cosmic Large Scale Structure.  [arXiv: 2408.05043](https://arxiv.org/pdf/2408.05043.pdf).
-- Li Zhao, **Guo Xiao**, Liu Tan, Zhu Tao, Zhao Wen, (2024). Schwarzschild Lensing From Geodesic Deviation. [arXiv: 2409.06281](https://arxiv.org/pdf/2409.06281.pdf). 
+- Li Zhao, **Guo Xiao**, Liu Tan, Zhu Tao, Zhao Wen, (2024). Schwarzschild Lensing From Geodesic Deviation. [arXiv: 2409.06281](https://arxiv.org/pdf/2409.06281.pdf).
+
+  
 Other subject:
 - YU, X., **GUO, X.**, JI, Y., TANG, S., JIA, C. & LEI, F. (2022). Migrational movements and seasonal home ranges of Greater Crested Terns Thalasseus bergii breeding in the South China Sea. [Marine Ornithology 50: 245 - 251](http://www.marineornithology.org/article?rn=1495)
 
