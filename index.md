@@ -103,7 +103,7 @@ Invited talks:
 - 2022.9.5, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/PI8pkgHeKS7jgbNnvkKzCQ), SWIFAR(online)
 - 2023.3.14, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/spJQmwziAvexqUUQ2AYQNw)@KIAA, PKU
 - 2023.6.5, [用引力波的引力透镜效应探测暗物质的本质(Probing the nature of dark matter via lensed gravitational wave)](https://github.com/guoxiaowhu/Xiao_Guo/blob/guoxiaowhu-patch-1/SciRep/SZTU.jpg)@Shenzhen Technology University (SZTU)
-- 中科大
+- [通过被小暗物质晕透镜的引力波来探索暗物质的本质](https://www.zhihu.com/zvideo/1812399059379548160)@中国科学技术大学
 - 重庆大学
 - 北师大珠海
 - 中山大学珠海校区
