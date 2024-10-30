@@ -35,7 +35,6 @@ Here is some personal information about me:
 - Gravitation & Cosmology
   - Gravitational thoery
   - Dark matter
-  - Dark energy
 
 
 ## Education
