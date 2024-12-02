@@ -54,6 +54,7 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - Yang Qing, **Guo Xiao**, Cao Zhoujian, Shao Xiaoyun & Yuan Xi (2024). Anisotropy of Nanohertz Gravitational Wave Background and Individual Sources from Supermassive Binary Black Holes: Probe of Cosmic Large Scale Structure.  [arXiv: 2408.05043](https://arxiv.org/pdf/2408.05043.pdf).
 - Li Zhao, **Guo Xiao**, Liu Tan, Zhu Tao & Zhao Wen (2024). Schwarzschild Lensing From Geodesic Deviation. [arXiv: 2409.06281](https://arxiv.org/pdf/2409.06281.pdf).
 - Chen Zhiwei, Xie Yushan, Lu Youjun, Shan Huanyuan, Li Nan, Luo Yuchao &  **Guo Xiao** (2024). Detection Rate of Galaxy Cluster Lensed Stellar Binary Black Hole Mergers by the Third-generation Gravitational Wave Detectors. Accepted by **ApJ**. [arXiv: 2410.20701](https://arxiv.org/pdf/2410.20701.pdf).
+- **Guo Xiao**, Yu Qingjuan & Lu Youjun (2024). Constraining the Binarity of Massive Black Holes in the Galactic Center and Some Nearby Galaxies via Pulsar Timing Array Observations of Gravitational Waves. Accepted by **ApJ**. [arXiv: 2411.14150](https://arxiv.org/pdf/2411.14150.pdf).
 
   
 Other subject:
