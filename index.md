@@ -51,10 +51,10 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - **Guo Xiao**, Lu Youjun & Yu Qingjuan (2022). On Detecting Nearby Nanohertz Gravitational Wave Sources via Pulsar Timing Arrays. [ApJ, 939, 55](https://doi.org/10.3847/1538-4357/ac9131). [arXiv: 2209.05666](https://arxiv.org/pdf/2209.05666.pdf).
 - Ma Hao, Lu Youjun, **Guo Xiao**, Zhang Siqi & Chu Qingbo (2023). On the detection of the electromagnetic counterparts from lensed gravitational wave events by binary neutron star mergers. [MNRAS, 518,6183](https://doi.org/10.1093/mnras/stac3418). [arXiv: 2307.02756](https://arxiv.org/pdf/2307.02756.pdf).
 - **Guo Xiao** & Cao Zhoujian (2024). Testing an exact diffraction formula with gravitational wave source lensed by a supermassive black hole in binary systems. [JCAP, 05, 084](https://iopscience.iop.org/article/10.1088/1475-7516/2024/05/084). [arXiv: 2401.01581](https://arxiv.org/pdf/2401.01581.pdf).
+- **Guo Xiao**, Yu Qingjuan & Lu Youjun (2024). Constraining the Binarity of Massive Black Holes in the Galactic Center and Some Nearby Galaxies via Pulsar Timing Array Observations of Gravitational Waves. Accepted by **ApJ**. [arXiv: 2411.14150](https://arxiv.org/pdf/2411.14150.pdf).
 - Yang Qing, **Guo Xiao**, Cao Zhoujian, Shao Xiaoyun & Yuan Xi (2024). Anisotropy of Nanohertz Gravitational Wave Background and Individual Sources from Supermassive Binary Black Holes: Probe of Cosmic Large Scale Structure.  [arXiv: 2408.05043](https://arxiv.org/pdf/2408.05043.pdf).
 - Li Zhao, **Guo Xiao**, Liu Tan, Zhu Tao & Zhao Wen (2024). Schwarzschild Lensing From Geodesic Deviation. [arXiv: 2409.06281](https://arxiv.org/pdf/2409.06281.pdf).
 - Chen Zhiwei, Xie Yushan, Lu Youjun, Shan Huanyuan, Li Nan, Luo Yuchao &  **Guo Xiao** (2024). Detection Rate of Galaxy Cluster Lensed Stellar Binary Black Hole Mergers by the Third-generation Gravitational Wave Detectors. Accepted by **ApJ**. [arXiv: 2410.20701](https://arxiv.org/pdf/2410.20701.pdf).
-- **Guo Xiao**, Yu Qingjuan & Lu Youjun (2024). Constraining the Binarity of Massive Black Holes in the Galactic Center and Some Nearby Galaxies via Pulsar Timing Array Observations of Gravitational Waves. Accepted by **ApJ**. [arXiv: 2411.14150](https://arxiv.org/pdf/2411.14150.pdf).
 
   
 Other subject:
