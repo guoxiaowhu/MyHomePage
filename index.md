@@ -108,6 +108,7 @@ Invited talks:
 - 北师大珠海
 - 中山大学珠海校区
 - 南京天光所
+- 南昌大学
  
 
 ## Skills & Courses
